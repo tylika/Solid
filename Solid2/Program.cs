@@ -1,5 +1,5 @@
 ﻿using System;
-
+//порушено принцип єдиного обов’язку
 class Email
 {
     public string Theme { get; set; }

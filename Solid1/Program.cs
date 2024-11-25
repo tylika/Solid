@@ -1,5 +1,5 @@
 ﻿using System.Collections.Generic;
-
+//Принцип єдиної відповідальності
 class Item
 {
 }

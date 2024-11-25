@@ -1,5 +1,5 @@
 ﻿using System;
-
+//принципу підстановки Лісков
 class Rectangle
 {
     public int Width { get; set; }
